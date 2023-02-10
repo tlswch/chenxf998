@@ -1,6 +1,6 @@
 {
 /*-----------------------JAR包接口-----------------------*/
-"spider":"clan://TVBox1/jar/1218.jar",
+"spider":"https://gitea.com/chenxf998/KELE/raw/branch/main/jar/1218.jar",
 //"spider":"clan://TVBox/JS/fm.jar",
 
 
@@ -46,7 +46,7 @@
     "searchar   ble": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "clan://TVBox1/jar/zy2.jar"
+    "jar": "https://gitea.com/chenxf998/KELE/raw/branch/main/jar/zy2.jar"
   },	
 {"key":"Dm84r","name":"可乐动漫一号线","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"clan://TVBox1/jar/cs.jar"},
   {
@@ -57,7 +57,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "clan://TVBox1/jar/2925.jar"
+    "jar": "https://gitea.com/chenxf998/KELE/raw/branch/main/jar/2925.jar"
   },
 
 
@@ -75,7 +75,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "clan://TVBox1/json/suaohuao.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/suaohuao.json"
   },
 {"key":"csp_xpath_dm84","name":"可乐影视动漫二号线","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox1/json/dongmanbashi.json"},
   {
@@ -86,7 +86,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/shuangshi.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/shuangshi.json"
   },
 
 
@@ -110,7 +110,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/huamao.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/huamao.json"
   },
   {
     "key": "csp_biubiu_免费看剧",
@@ -120,7 +120,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/mianfei.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/mianfei.json"
   },
   {
     "key": "csp_biubiu_蓝光影视",
@@ -130,7 +130,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/languan.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/languan.json"
   },
   {
     "key": "csp_biubiu_奈菲影院",
@@ -140,7 +140,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/laifei.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/laifei.json"
   },
   {
     "key": "csp_biubiu_1080Kkk",
@@ -150,7 +150,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "clan://TVBox1/json/1080kk.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/1080kk.json"
   },
   {
     "key": "csp_biubiu_低端影视",
@@ -160,7 +160,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/diduan.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/diduan.json"
   },
 
 
@@ -175,7 +175,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "clan://TVBox1/json/maomao.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/maomao.json"
   },
   {
     "key": "csp_xpath_动漫巴士",
@@ -185,7 +185,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "clan://TVBox1/json/dongman.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/dongman.json"
   },
   {
     "key": "csp_xpath_lenxitv",
@@ -195,7 +195,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "clan://TVBox1/json/lenxi.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/lenxi.json"
   },
   {
     "key": "135看看",
@@ -205,7 +205,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "clan://TVBox1/json/135.json"
+    "ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/135.json"
   },
   {
     "key": "csp_XBPQTVB影视",
