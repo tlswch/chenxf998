@@ -46,7 +46,7 @@
     "searchar   ble": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "https://gitea.com/chenxf998/KELE/raw/branch/main/jar/zy2.jar"
+    "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/zy2.jar"
   },	
 {"key":"Dm84r","name":"可乐动漫一号线","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/cs.jar"},
   {
