@@ -99,7 +99,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./src/branch/main/json/shuangshi.json"
+    "ext": "https://gitea.com/chenxf998/TVBox/src/branch/main/json/shuangshi.json"
   },
 
 
