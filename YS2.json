@@ -1,18 +1,12 @@
 {
 /*-----------------------JAR包接口-----------------------*/
-"spider": 'https://gitea.com/chenxf998/Jar/src/branch/master/1218.jar",
-//"spider":"https://gitea.com/chenxf998/TVBox/src/branch/main/Jar/zy2.jar",
+"spider":"hhttps://gitea.com/chenxf998/Jar/src/branch/master/1218.jar",
+//"spider":"hhttps://gitea.com/chenxf998/Jar/src/branch/master/zy2.jar",
 
 
 //*--------------直播-----(/tv/zy.txt)-------------*/
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "group": "redirect",
-		    "channels": [{
-			    "name": "live",
-			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
-		    }]
-	    }],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY1MDEyODMzL2RpYW5zaGkvcmF3L2JyYW5jaC9tYXN0ZXIvZGlhbnNoaS5qc29u"]}]}],
+
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
@@ -37,9 +31,9 @@
     "filterable": 1,
     "ext": "https://download.kstore.space/download/2863/xpath/工人影视.json"
   }, 
-//{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chenxf998/TVBox/src/branch/main/json/Alist%28token%29.json","jar":"http://tvmvip110.live/down.php/5a5c2165bff9d6315113907d30eacb07.png;md5; 0EE6494774C013AD4238F01CDE90DFF5"},
-//{"key":"csp_biubiu_LIBVIO","name": "LIBVIO（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/TVBox/src/branch/main/json/LIBVIO.json"},
-//{"key":"csp_xpath_两个BT","name":"两个BT（爬虫）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chenxf998/TVBox/src/branch/main/json/BT.json"},
+//{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chenxf998/Json/src/branch/master/Alist%28token%29.json","jar":"http://tvmvip110.live/down.php/5a5c2165bff9d6315113907d30eacb07.png;md5; 0EE6494774C013AD4238F01CDE90DFF5"},
+//{"key":"csp_biubiu_LIBVIO","name": "LIBVIO（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/Json/src/branch/master/LIBVIO.json"},
+//{"key":"csp_xpath_两个BT","name":"两个BT（爬虫）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chenxf998/Json/src/branch/master/BT.json"},
   {
     "key": "csp_xp_tjyy",
     "name": "可乐影视四号线",
@@ -59,9 +53,9 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar"
+    "jar": "hhttps://gitea.com/chenxf998/Jar/src/branch/master/zy2.jar"
   },	
-{"key":"Dm84r","name":"可乐动漫一号线","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitea.com/chenxf998/TVBox/src/branch/main/jar/cs.jar"},
+{"key":"Dm84r","name":"可乐动漫一号线","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"hhttps://gitea.com/chenxf998/Jar/src/branch/master/cs.jar"},
   {
     "key": "csp_Bdys01",
     "name": "可乐影视六号线",
@@ -70,7 +64,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "https://agit.ai/65012833/Jar/raw/branch/master/2925.jar"
+    "jar": "hhttps://gitea.com/chenxf998/Jar/src/branch/master/2925.jar"
   },
 
 
@@ -90,7 +84,7 @@
     "filterable": 0,
     "ext": "https://gitea.com/chenxf998/Json/src/branch/master/suaohuao.json"
   },
-{"key":"csp_xpath_dm84","name":"可乐影视动漫二号线","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/chenxf998/TVBox/src/branch/main/json/dongmanbashi.json"},
+{"key":"csp_xpath_dm84","name":"可乐影视动漫二号线","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/chenxf998/Json/src/branch/master/dongmanbashi.json"},
   {
     "key": "csp_biubiu_双十电影",
     "name": "可乐影视八号线",
@@ -99,7 +93,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://gitea.com/chenxf998/Json/src/branch/master/json/shuangshi.json"
+    "ext": "https://gitea.com/chenxf998/Json/src/branch/master/shuangshi.json"
   },
 
 
@@ -114,7 +108,7 @@
 
 
 //自定义
-{"key":"csp_biubiu_8K影视","name": "可乐影视8K影视（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/TVBox/src/branch/main/json/8K.json"},
+{"key":"csp_biubiu_8K影视","name": "可乐影视8K影视（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/Json/src/branch/master/8K.json"},
   {
     "key": "csp_biubiu_花猫",
     "name": "可乐影视花猫（自定义）",
