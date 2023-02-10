@@ -99,7 +99,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./json/shuangshi.json"
+    "ext": "./src/branch/main/json/shuangshi.json"
   },
 
 
