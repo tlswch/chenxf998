@@ -101,7 +101,7 @@
 
 
 //自定义
-{"key":"csp_biubiu_8K影视","name": "可乐影视8K影视（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/8K.json"},
+{"key":"csp_biubiu_8K影视","name": "可乐影视8K影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/KELE/raw/branch/main/json/8K.json"},
   {
     "key": "csp_biubiu_花猫",
     "name": "可乐影视花猫（自定义）",
@@ -144,7 +144,7 @@
   },
   {
     "key": "csp_biubiu_1080Kkk",
-    "name": "可乐影视1080Kkk（自定义）",
+    "name": "可乐影视1080Kkk",
     "type": 3,
     "api": "csp_XBiubiu",
     "searchable": 1,
@@ -209,7 +209,7 @@
   },
   {
     "key": "csp_XBPQTVB影视",
-    "name": "可乐影视TVB云播〔XBPQ〕",
+    "name": "可乐影视TVB云播XBPQ",
     "type": 3,
     "api": "csp_xBPQ",
     "searchable": 1,
