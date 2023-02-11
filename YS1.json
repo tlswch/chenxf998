@@ -5,8 +5,15 @@
 
 
 //*--------------直播-----(/tv/zy.txt)-------------*/
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY1MDEyODMzL2RpYW5zaGkvcmF3L2JyYW5jaC9tYXN0ZXIvZGlhbnNoaS5qc29u"]}]}],
-
+"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"lives": [{qe
+		    "group": "redirect",
+		    "channels": [{
+			    "name": "live",
+			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
+		    }]
+	    }],
+t
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
