@@ -1,6 +1,6 @@
 {
 /*-----------------------JAR包接口-----------------------*/
-"spider":"https://gitea.com/chenxf998/Jar/src/branch/masterhttps://gitea.com/chenxf998/Jar/src/branch/master/1218.jarw",
+"spider":"https://agit.ai/65012833/Jar/raw/branch/master/1218.jar",
 //"spider":"hhttps://gitea.com/chenxf998/Jar/src/branch/master/zy2.jar",
 
 
@@ -34,17 +34,7 @@
 //{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chenxf998/Json/src/branch/master/Alist%28token%29.json","jar":"http://tvmvip110.live/down.php/5a5c2165bff9d6315113907d30eacb07.png;md5; 0EE6494774C013AD4238F01CDE90DFF5"},
 //{"key":"csp_biubiu_LIBVIO","name": "LIBVIO（自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chenxf998/Json/src/branch/master/LIBVIO.json"},
 //{"key":"csp_xpath_两个BT","name":"两个BT（爬虫）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chenxf998/Json/src/branch/master/BT.json"},
-  {
-    "key": "csp_xp_tjyy",
-    "name": "可乐影视四号线",
-    "type": 3,
-    "api": "csp_XPathMac",
-    "searchable": 1,
-    "quickSearch": 1,
-    "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json",
-    "date": "2022-12-20 16:20:17",
-    "jar": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"
-  },
+{"key":"csp_sp_龙门影视","name":"可乐影视四号线","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.looo.top/lm_api.php/v1.vod"},
   {
     "key": "csp_Auete",
     "name": "可乐影视五号线",
