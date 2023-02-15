@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口-----------------------*/
-//"spider":"clan://TVBox1/jar/zy2.jar",
-"spider":"clan://TVBox1/jar/2925.jar",
+//"spider":"https://gitea.com/chenxf998/TVBox/src/branch/main/jar/2925.jar",
+"spider":"https://gitea.com/chenxf998/TVBox/src/branch/main/jar/2925.jar",
 
 
 //*--------------直播-----(/tv/zy.txt)-------------*/
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://TVBox1/json/suaohuao.json"
+      "ext": "https://gitea.com/chenxf998/TVBox/src/branch/main/json/suaohuao.json"
     },
    {
       "key": "csp_Auete",
@@ -57,7 +57,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "clan://TVBox1/jar/zy2.jar"
+      "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/zy2.jar"
     },
     {
       "key": "csp_Bdys01",
@@ -67,7 +67,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "clan://TVBox1/jar/2925.jar"
+      "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/2925.jar"
     },
    {
       "key": "Dm84r",
@@ -77,7 +77,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "clan://TVBox1/jar/cs.jar"
+      "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/cs.jar"
     },
      {
       "key": "csp_xpath_A33",
