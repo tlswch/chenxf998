@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/chenxf998/TVBox/src/branch/main/json/suaohuao.json"
+      "ext": "https://gitea.com/chenxf998/TVBox/raw/branch/main/json/suaohuao.json"
     },
    {
       "key": "csp_Auete",
@@ -57,7 +57,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/zy2.jar"
+      "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/zy2.jar"
     },
     {
       "key": "csp_Bdys01",
@@ -67,9 +67,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/2925.jar"
+      "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/2925.jar"
     },
-    {"key": "csp_fantuan","name": "可乐影视七号线","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
    {
       "key": "Dm84r",
       "name": "可乐动漫一号线",
@@ -78,7 +77,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/cs.jar"
+      "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/cs.jar"
     },
      {
       "key": "csp_xpath_A33",
