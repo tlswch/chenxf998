@@ -18,7 +18,7 @@
 /*-----------------------配置数据源-----------------------*/
 "homepage": "https://gitcode.net/qq_32394351/dr_py",
 "sites":[
-{"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"LiteApple","name":"可乐影视一号线","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
 {
     "key": "csp_Kunyu77",
     "name": "可乐影视二号线",
@@ -69,6 +69,7 @@
       "filterable": 1,
       "jar": "https://gitea.com/chenxf998/TVBox/src/branch/main/jar/2925.jar"
     },
+    {"key": "csp_fantuan","name": "可乐影视七号线","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
    {
       "key": "Dm84r",
       "name": "可乐动漫一号线",
