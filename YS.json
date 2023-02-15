@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口-----------------------*/
 //"spider":"https://gitea.com/chenxf998/TVBox/src/branch/main/jar/2925.jar",
-"spider":"https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/2925.jar",
+"spider":"https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/630.jar",
 
 
 //*--------------直播-----(/tv/zy.txt)-------------*/
@@ -69,6 +69,8 @@
       "filterable": 1,
       "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/2925.jar"
     },
+    {"key": "csp_fantuan","name": "可乐影视七号线","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
+
    {
       "key": "Dm84r",
       "name": "可乐动漫一号线",
