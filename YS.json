@@ -47,6 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/2925.jar"
       "ext": "https://gitea.com/chenxf998/TVBox/raw/branch/main/json/suaohuao.json"
     },
    {
