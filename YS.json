@@ -39,16 +39,7 @@
     "filterable": 1,
     "ext": "https://download.kstore.space/download/2863/xpath/工人影视.json"
   },
- {
-      "key":"csp_sp_龙门影视",
-      "name":"可乐影视四号线",
-      "type":3,"api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://app.looo.top/lm_api.php/v1.vod",
-      "jar": "https://gitea.com/chenxf998/TVBox/raw/branch/main/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
-    },
+{"key": "csp_AppTT","name": "可乐影视四号线","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==","jar":"https://raw.iqiq.io/dxawi/1/main/jar/cc.jar;md5;92a58defedc77459ca0139972fb05754"},
        {
       "key": "csp_Auete",
       "name": "可乐影视五号线",
