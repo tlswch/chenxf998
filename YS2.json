@@ -29,7 +29,7 @@
     "ext": "https://download.kstore.space/download/2863/xpath/工人影视.json"
   },
   {"key": "MGTV","name": "芒果TV","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "QQ","name": "腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "QQ","name": "腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}
   ],
   "parses": [
 
