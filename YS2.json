@@ -6,9 +6,8 @@
         "proxy://do=live&type=txt&ext=https://notabug.org/lwm212/boxx/raw/master/7.31zb/default.txt"
     ]}]}],
     "sites":[
-        {"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-        {"key": "农民","name": "农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
-        {
+        {"key": "LiteApple","name": "可乐影视一号线","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+               {
     "key": "csp_Kunyu77",
     "name": "可乐影视二号线",
     "type": 3,
@@ -28,8 +27,8 @@
     "filterable": 1,
     "ext": "https://download.kstore.space/download/2863/xpath/工人影视.json"
   },
-  {"key": "MGTV","name": "芒果TV","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "QQ","name": "腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}
+  {"key": "MGTV","name": "可乐芒果TV","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "QQ","name": "可乐🐧视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}
   ],
   "parses": [
 
