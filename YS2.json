@@ -30,7 +30,8 @@
   {"key": "MGTV","name": "可乐芒果TV","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "QQ","name": "可乐🐧视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "dr_优酷","name": "可乐优酷","type": 3,"api": "https://gitea.com/chenxf998/TVBox/raw/branch/main/js/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/chenxf998/TVBox/raw/branch/main/js/优酷.js"},
-{"key": "IQIYI", "name": "可乐爱奇艺","type": 3,"api": "csp_IQIYI", "searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "IQIYI", "name": "可乐爱奇艺","type": 3,"api": "csp_IQIYI", "searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"SP360","name":"可乐360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1}
   ],
   
   "parses":[
