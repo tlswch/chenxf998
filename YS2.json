@@ -27,15 +27,7 @@
     "filterable": 1,
     "ext": "https://download.kstore.space/download/2863/xpath/工人影视.json"
   },
-   {
-      "key":"BuLei",
-      "name":"可乐影视四号线",
-      "type":3,"api":"csp_BuLei",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar":"./Jar/布蕾蓝光.jar;md5;E8F444CDA5A3FE0F21B31DB313E93753"
-    },
+   {"key":"csp_DiDuan","name":"可乐影视四号线","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key":"csp_Bd",
       "name":"可乐影视五号线",
